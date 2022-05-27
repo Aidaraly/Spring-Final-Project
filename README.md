@@ -1,6 +1,6 @@
 # SpringMidtermProject
 
-Heroku link:    https://daniiarr-midterm-project.herokuapp.com/
+Heroku link:    
 The project has full support for adding new customers.
 Spring Security: not implemented
 Classes are structured under corresponding packages (model, dao, controller, service, repository).
