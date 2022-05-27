@@ -1,6 +1,10 @@
 # SpringMidtermProject
 
+<<<<<<< HEAD
 Heroku link:    
+=======
+Heroku link: [https://aidraly-final-project.herokuapp.com/](https://daniiarr-midterm-project.herokuapp.com/)   
+>>>>>>> 047a1cc50ddf766205a32239af93dd6f6fafc6fd
 The project has full support for adding new customers.
 Spring Security: not implemented
 Classes are structured under corresponding packages (model, dao, controller, service, repository).
